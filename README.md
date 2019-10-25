@@ -4,6 +4,6 @@
 [![](https://codescene.io/projects/5801/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5782/jobs/latest-successful/results)
 
 # Kritika
-Result : kritika.pdf (testForKritika)
+Result : kritika.pdf (testByKritika)
 
 (Xem kết quả tại file kritika.pdf phía trên)
